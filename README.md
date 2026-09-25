@@ -28,3 +28,9 @@ The starting parameter values (from the assignment's pseudo-code examples) were 
 - `planner.goal_tolerance`: `0.5 -> 0.3` m. The planner was clearing the path (and stopping the robot) well before control's own tighter tolerance ever mattered; tightening it gives a more precise stop.
 
 Costmap/map resolution and grid size, map update distance, and control speeds were tested against several goals and obstacles and left at their defaults -- no smoothness, clearance, or timing issues showed up.
+
+## Repository Note
+
+The project was copied in its entirety to a private GitHub repository under a different account.
+
+If access to the original repository or its commit history is needed, I can invite you to the original repository.
